@@ -23,19 +23,23 @@ Best_BG_performance
 
 │
 ├── activity_picker_correlation.ipynb
+
    Selects cycling activities and correlates HR–P metrics with BG data.
 
 
 ├── intervals_nightscout_analysis.ipynb
+
    Interval-based analysis with CGM overlays and performance metrics.
 
 
 ├── utilities/
-│   Helper functions for data loading, preprocessing, and correlation logic.
+
+   Helper functions for data loading, preprocessing, and correlation logic.
 
 
 └── output/
-    Generated plots, tables, and intermediate results.
+   
+   Generated plots, tables, and intermediate results.
 
 
 ## Notebook Summaries
